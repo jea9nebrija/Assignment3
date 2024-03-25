@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ch.exense.step.api.javax.json" type="repository">
+    <properties maven-id="ch.exense.step:step-api-javax-json:1.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ch/exense/step/step-api-javax-json/1.0.0/step-api-javax-json-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
