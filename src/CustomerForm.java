@@ -7,6 +7,8 @@
  Description: Initializing Customer's details form
  *************************************************/
 
+
+
 import javax.swing.*;
 import java.sql.SQLException;
 import java.time.LocalDate;

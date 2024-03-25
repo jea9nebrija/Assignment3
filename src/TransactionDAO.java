@@ -7,6 +7,8 @@
  Description: Initializing transaction's data access object (DAO) in SQL connection
  *************************************************/
 
+
+
 import java.sql.SQLException;
 import java.util.PriorityQueue;
 

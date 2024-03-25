@@ -1,5 +1,5 @@
 /*************************************************
- File: Account.java
+ File: Admin.java
  By: Jeanine Nebrija
  Date: 3/25/24
  Compile: Open directory as IntelliJ project, compile and run.

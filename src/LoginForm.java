@@ -7,6 +7,8 @@
  Description: Implements user's log in such as username, password, etc
  *************************************************/
 
+
+
 import javax.swing.*;
 
 public class LoginForm extends JFrame{

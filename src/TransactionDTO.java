@@ -7,6 +7,8 @@
  Description: Initializing transaction's data transfer object (DTO) within priority queue and SQL connection
  *************************************************/
 
+
+
 import java.math.BigDecimal;
 import java.sql.*;
 import java.time.LocalDateTime;
